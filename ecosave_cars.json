@@ -1,0 +1,39 @@
+{
+“data”: [
+        {
+            “Id”:1,
+            “name”: “Ecosave Sport”,
+            “isEcoFriendly”: true,
+            “isAutomatic”: false,
+					  "image": "https://raw.githubusercontent.com/Rchrdlss3/EcosaveImages/main/EcoCars/EcosaveSport.png"
+        },
+        {
+            “Id”:2,
+            “name”: “Ecosave Truck”,
+            “isEcoFriendly”: true,
+            “isAutomatic”: true,
+						"image": "https://raw.githubusercontent.com/Rchrdlss3/EcosaveImages/main/EcoCars/EcosaveTruck.png"
+        },
+        {
+            “Id”:3,
+            “name”: “Ecosave Van”,
+            “isEcoFriendly”: true,
+            “isAutomatic”: true,
+						"image": "https://raw.githubusercontent.com/Rchrdlss3/EcosaveImages/main/EcoCars/EcosaveVan.png"
+        },
+        {
+            “Id”:4,
+            “name”: “Ecosave Sedan”,
+            “isEcoFriendly”: true,
+            “isAutomatic”: true,
+						"image": "https://raw.githubusercontent.com/Rchrdlss3/EcosaveImages/main/EcoCars/EcosaveSedan.png"
+        },
+        {
+            “Id”:5,
+            “name”: “Ecosave Electric”,
+            “isEcoFriendly”: true,
+            “isAutomatic”: true,
+					  "image": "https://raw.githubusercontent.com/Rchrdlss3/EcosaveImages/main/EcoCars/EcosaveElectric.png"
+        }
+    ]
+}
